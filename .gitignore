@@ -1,0 +1,12 @@
+# Copyrighted textbook - kept locally, not published
+reference/
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+*~

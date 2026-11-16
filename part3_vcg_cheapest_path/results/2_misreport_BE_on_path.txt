@@ -1,0 +1,28 @@
+Edge BE (on the chosen path), true cost 1 - misreport sweep
+===========================================================
+truthful utility = 1
+
+ report   path  utility  change vs truth
+    0.0   ABEF        1                0
+    0.5   ABEF        1                0
+    1.0   ABEF        1                0
+    1.5   ABEF        1                0
+    2.0   ABEF        1                0
+    2.5   ACEF        0               -1
+    3.0   ACEF        0               -1
+    3.5   ACEF        0               -1
+    4.0   ACEF        0               -1
+    4.5   ACEF        0               -1
+    5.0   ACEF        0               -1
+    5.5   ACEF        0               -1
+    6.0   ACEF        0               -1
+    6.5   ACEF        0               -1
+    7.0   ACEF        0               -1
+    7.5   ACEF        0               -1
+    8.0   ACEF        0               -1
+    8.5   ACEF        0               -1
+    9.0   ACEF        0               -1
+    9.5   ACEF        0               -1
+   10.0   ACEF        0               -1
+
+max gain from lying: 0

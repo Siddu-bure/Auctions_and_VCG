@@ -1,0 +1,15 @@
+Part 1C (A repeated) - two rivals (bidders 2, 3), random values
+===============================================================
+   v  rival strategy  argmax b  E[u] at b=v  max E[u]
+ 0.2        truthful      0.20       0.0027    0.0027
+ 0.5        truthful      0.50       0.0420    0.0420
+ 0.8        truthful      0.80       0.1716    0.1716
+ 0.2      half value      0.20       0.0107    0.0107
+ 0.5      half value      0.50       0.1666    0.1666
+ 0.8      half value      0.50       0.4666    0.4666
+ 0.2   random U[0,1]      0.20       0.0027    0.0027
+ 0.5   random U[0,1]      0.50       0.0418    0.0418
+ 0.8   random U[0,1]      0.80       0.1713    0.1713
+
+Note: for 'half value' rivals and v = 0.8 every b >= 0.5 is optimal (flat curve),
+so argmax reports the first maximiser; b = v attains the same maximum.

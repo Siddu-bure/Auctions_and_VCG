@@ -1,0 +1,15 @@
+Part 3 - VCG payments with truthful costs
+=========================================
+Chosen path: ABEF (cost 5)
+
+ edge  cost  on path  best w/o e  paid  utility
+   AB     3     True    ACEF (6)     4        1
+   AC     2    False    ABEF (5)     0        0
+   BD     2    False    ABEF (5)     0        0
+   BE     1     True    ACEF (6)     2        1
+   CE     3    False    ABEF (5)     0        0
+   CF     5    False    ABEF (5)     0        0
+   DF     2    False    ABEF (5)     0        0
+   EF     1     True    ABDF (7)     3        2
+
+MATCHES THE BOOK: path ABEF, AB paid 4, BE paid 2, EF paid 3, others 0.

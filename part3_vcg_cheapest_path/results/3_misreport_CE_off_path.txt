@@ -1,0 +1,28 @@
+Edge CE (off the chosen path), true cost 3 - misreport sweep
+============================================================
+truthful utility = 0
+
+ report   path  utility  change vs truth
+    0.0   ACEF       -1               -1
+    0.5   ACEF       -1               -1
+    1.0   ACEF       -1               -1
+    1.5   ACEF       -1               -1
+    2.0   ABEF        0                0
+    2.5   ABEF        0                0
+    3.0   ABEF        0                0
+    3.5   ABEF        0                0
+    4.0   ABEF        0                0
+    4.5   ABEF        0                0
+    5.0   ABEF        0                0
+    5.5   ABEF        0                0
+    6.0   ABEF        0                0
+    6.5   ABEF        0                0
+    7.0   ABEF        0                0
+    7.5   ABEF        0                0
+    8.0   ABEF        0                0
+    8.5   ABEF        0                0
+    9.0   ABEF        0                0
+    9.5   ABEF        0                0
+   10.0   ABEF        0                0
+
+max gain from lying: 0

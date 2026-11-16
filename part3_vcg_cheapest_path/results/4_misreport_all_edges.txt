@@ -1,0 +1,10 @@
+All edges - maximum gain from any misreport in [0, 10] (should be <= 0)
+=======================================================================
+  AB: 0
+  AC: 0
+  BD: 0
+  BE: 0
+  CE: 0
+  CF: 0
+  DF: 0
+  EF: 0
